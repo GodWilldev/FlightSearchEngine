@@ -1,0 +1,26 @@
+@charset "UTF-8";
+
+body{
+   
+	background-image: url("https://media.istockphoto.com/photos/clouds-on-sky-picture-id184103864?b=1&k=20&m=184103864&s=170667a&w=0&h=ZngznsmOs4gnb0bRP13q5RFXY-cv-BHZJNjJXb6ffyk=");
+	 background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+   
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  
+  padding: 2% 2% 2% 2% ;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+  border-radius: 5px;
+}
+
+button{
+	width: 100px;
+	height: 50px;
+	border-radius: 5px;
+	  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23);
+	
+}
